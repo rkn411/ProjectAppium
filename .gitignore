@@ -1,0 +1,10 @@
+*.class
+Target/
+Bin/
+.classpath
+.settings/
+.gitignore/
+/.project
+/.metadata
+~$D_RIBSG_SGAutoFinance_v0.8.doc
+~$D_SGSTP_Auto_Financing_FrontEnd_v0.4.docx
